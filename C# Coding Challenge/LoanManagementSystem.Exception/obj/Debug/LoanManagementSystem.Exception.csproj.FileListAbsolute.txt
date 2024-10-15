@@ -1,0 +1,12 @@
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.Exception\bin\Debug\LoanManagementSystem.Exception.dll
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.Exception\bin\Debug\LoanManagementSystem.Exception.pdb
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.Exception\obj\Debug\LoanManagementSystem.Exception.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.Exception\obj\Debug\LoanManagementSystem.Exception.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.Exception\obj\Debug\LoanManagementSystem.Exception.dll
+D:\Microsoft Visual Studio\Loan Management System\LoanManagementSystem.Exception\obj\Debug\LoanManagementSystem.Exception.pdb
+C:\Users\HP\Desktop\Training\Technical\Project\LoanManagementSystem\LoanManagementSystem.Exception\bin\Debug\LoanManagementSystem.Exception.dll
+C:\Users\HP\Desktop\Training\Technical\Project\LoanManagementSystem\LoanManagementSystem.Exception\bin\Debug\LoanManagementSystem.Exception.pdb
+C:\Users\HP\Desktop\Training\Technical\Project\LoanManagementSystem\LoanManagementSystem.Exception\obj\Debug\LoanManagementSystem.Exception.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Training\Technical\Project\LoanManagementSystem\LoanManagementSystem.Exception\obj\Debug\LoanManagementSystem.Exception.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Training\Technical\Project\LoanManagementSystem\LoanManagementSystem.Exception\obj\Debug\LoanManagementSystem.Exception.dll
+C:\Users\HP\Desktop\Training\Technical\Project\LoanManagementSystem\LoanManagementSystem.Exception\obj\Debug\LoanManagementSystem.Exception.pdb
